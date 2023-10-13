@@ -1,4 +1,4 @@
-# Simple-PowerShell-Reverse-Shell-Executable
+# Simple-C#/PowerShell-Reverse-Shell-Executable
 FUD Executable Reverse Shell .exe
 
 Open Visual Studio and clone repository.
